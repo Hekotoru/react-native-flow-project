@@ -1,0 +1,1 @@
+export default getRandomNumber = (): number => Math.round((Math.random() * (100 - 1) + 1),1);
