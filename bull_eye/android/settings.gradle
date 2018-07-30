@@ -1,0 +1,3 @@
+rootProject.name = 'bull_eye'
+
+include ':app'
